@@ -13,7 +13,7 @@ class Graph:
         node.next = self.graph[src]
         #node ka next hai wo pura 
         #pehle wala src ka hissa hai
-        #node-->[]
+        #node-->[] sameer code pri ddkmdm
 
         #dst-->(at src jo value stored hai)[]
         self.graph[src] = node
